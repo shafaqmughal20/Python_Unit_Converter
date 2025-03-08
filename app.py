@@ -75,7 +75,7 @@ def main():
             st.success(f"{amount} {base_currency} = {converted_amount} {target_currency}")
     
     st.markdown("---")
-    st.caption("💡 Powered by ExchangeRate-API & Custom Unit Conversions")
+    st.caption("💡 Build By Shafaq Mughal")
 
 if __name__ == "__main__":
     main()
